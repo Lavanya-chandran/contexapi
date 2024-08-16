@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import CartCard from "./Components/CartCard";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import Navbar from "./Components/Navbar";
 export const UserContext = React.createContext();
 
 function App() {
@@ -80,6 +80,7 @@ function App() {
     <>
       <UserContext.Provider value={{ product, setProduct }}>
         <div className="container my-5">
+          <Navbar/>
           <CartCard />
         </div>
       </UserContext.Provider>
