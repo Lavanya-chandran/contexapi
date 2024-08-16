@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Header";
-import { DataProvider } from "./contexdata";
+import { DataProvider } from "./Contexdata";
 import Navbar from "./Navbar";
 import Section from "./Section";
 import "./App.css";

@@ -1,6 +1,5 @@
 import { createContext, useState } from "react";
 import Product from "./product.json";
-
 export const DataContex = createContext({
 
 
