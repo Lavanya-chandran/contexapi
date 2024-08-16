@@ -29,13 +29,8 @@
             "stock": 34,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://www.affordablemac.co.uk/wp-content/uploads/2020/01/A1865256SILB.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/2/1.jpg",
-                "https://i.dummyjson.com/data/products/2/2.jpg",
-                "https://i.dummyjson.com/data/products/2/3.jpg",
-                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-            ]
+            "thumbnail": "https://www.affordablemac.co.uk/wp-content/uploads/2020/01/A1865256SILB.jpg"
+            
         },
         {
             "id": 3,
@@ -47,10 +42,8 @@
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://directcell.ca/wp-content/uploads/2018/11/image-2.jpeg",
-            "images": [
-                "https://i.dummyjson.com/data/products/3/1.jpg"
-            ]
+            "thumbnail": "https://directcell.ca/wp-content/uploads/2018/11/image-2.jpeg"
+            
         },
         {
             "id": 4,
@@ -62,14 +55,8 @@
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/8197B8uCdgL._AC_SL1500_.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/4/1.jpg",
-                "https://i.dummyjson.com/data/products/4/2.jpg",
-                "https://i.dummyjson.com/data/products/4/3.jpg",
-                "https://i.dummyjson.com/data/products/4/4.jpg",
-                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-            ]
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/8197B8uCdgL._AC_SL1500_.jpg"
+            
         },
         {
             "id": 5,
@@ -81,12 +68,9 @@
             "stock": 32,
             "brand": "Huawei",
             "category": "smartphones",
-            "thumbnail": "https://www.gizchina.com/wp-content/uploads/images/2020/06/p-smart-s-1.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/5/1.jpg",
-                "https://i.dummyjson.com/data/products/5/2.jpg",
-                "https://i.dummyjson.com/data/products/5/3.jpg"
-            ]
+            "thumbnail": "https://www.gizchina.com/wp-content/uploads/images/2020/06/p-smart-s-1.jpg"
         }
-    ]
+            ]
+        
+    
 }
