@@ -78,9 +78,9 @@ function App() {
 
   return (
     <>
+      <Navbar/>
       <UserContext.Provider value={{ product, setProduct }}>
         <div className="container my-5">
-          <Navbar/>
           <CartCard />
         </div>
       </UserContext.Provider>
