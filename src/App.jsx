@@ -9,9 +9,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   //  Calling Created Components in //
   return (
-  
-      <DataProvider>
-        <Header />
+
+    <DataProvider>
+      <Header />
       <Navbar />
       <Section />
     </DataProvider>
